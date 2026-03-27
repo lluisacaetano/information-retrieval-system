@@ -1,6 +1,6 @@
-# Sistema de Recuperação de Informação
+# Information Retrieval System
 
-Sistema desenvolvido para a disciplina de Recuperação de Informação, implementando técnicas clássicas de indexação e busca de documentos.
+Document indexing and search engine implementing TF-IDF weighting, boolean queries, and cosine similarity ranking.
 
 **Aluna:** Luisa Caetano Araujo
 **Matrícula:** 0076937
