@@ -1,0 +1,340 @@
+{
+    "arxiv": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "retrieval": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc191.txt"
+    ],
+    "query": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "word": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "model": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "information": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "models": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "rag": [
+        "doc191.txt"
+    ],
+    "embeddings": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "neural": [
+        "doc194.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "learning": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "language": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "preprint": [
+        "doc194.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "computação": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "data": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc200.txt",
+        "doc198.txt"
+    ],
+    "using": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "text": [
+        "doc194.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "search": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "informação": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt"
+    ],
+    "document": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "acm": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "dados": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "problemas": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "tecnologia": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "training": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "based": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "web": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "deep": [
+        "doc194.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "conference": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "context": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "indústria": [
+        "doc192.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "embedding": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "documents": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc191.txt"
+    ],
+    "artificial": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc191.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "knowledge": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "semantic": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "question": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "research": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "attention": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "queries": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "similarity": [
+        "doc194.txt",
+        "doc191.txt"
+    ],
+    "work": [
+        "doc194.txt",
+        "doc195.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "vector": [
+        "doc194.txt",
+        "doc192.txt",
+        "doc191.txt"
+    ],
+    "natural": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc199.txt"
+    ],
+    "term": [
+        "doc194.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "terms": [
+        "doc194.txt",
+        "doc197.txt",
+        "doc193.txt",
+        "doc191.txt"
+    ],
+    "generation": [
+        "doc194.txt",
+        "doc192.txt",
+        "doc193.txt",
+        "doc191.txt",
+        "doc198.txt"
+    ],
+    "quântica": [
+        "doc195.txt"
+    ],
+    "tempo": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ],
+    "sistemas": [
+        "doc195.txt",
+        "doc197.txt",
+        "doc196.txt",
+        "doc192.txt",
+        "doc200.txt",
+        "doc198.txt",
+        "doc199.txt"
+    ]
+}

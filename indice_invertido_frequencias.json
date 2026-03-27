@@ -1,0 +1,340 @@
+{
+    "arxiv": {
+        "doc194.txt": 60,
+        "doc195.txt": 4,
+        "doc196.txt": 4,
+        "doc193.txt": 30,
+        "doc191.txt": 282,
+        "doc198.txt": 1
+    },
+    "retrieval": {
+        "doc194.txt": 119,
+        "doc197.txt": 6,
+        "doc192.txt": 5,
+        "doc191.txt": 242
+    },
+    "query": {
+        "doc194.txt": 252,
+        "doc195.txt": 1,
+        "doc193.txt": 4,
+        "doc191.txt": 56
+    },
+    "word": {
+        "doc194.txt": 263,
+        "doc193.txt": 3,
+        "doc191.txt": 2
+    },
+    "model": {
+        "doc194.txt": 146,
+        "doc195.txt": 1,
+        "doc197.txt": 4,
+        "doc192.txt": 3,
+        "doc193.txt": 43,
+        "doc191.txt": 67,
+        "doc199.txt": 1
+    },
+    "information": {
+        "doc194.txt": 148,
+        "doc197.txt": 13,
+        "doc192.txt": 9,
+        "doc193.txt": 7,
+        "doc191.txt": 69,
+        "doc199.txt": 1
+    },
+    "models": {
+        "doc194.txt": 86,
+        "doc193.txt": 34,
+        "doc191.txt": 109,
+        "doc199.txt": 4
+    },
+    "rag": {
+        "doc191.txt": 233
+    },
+    "embeddings": {
+        "doc194.txt": 190,
+        "doc193.txt": 8,
+        "doc191.txt": 7
+    },
+    "neural": {
+        "doc194.txt": 164,
+        "doc196.txt": 2,
+        "doc193.txt": 24,
+        "doc191.txt": 7
+    },
+    "learning": {
+        "doc194.txt": 117,
+        "doc195.txt": 1,
+        "doc197.txt": 13,
+        "doc196.txt": 8,
+        "doc193.txt": 14,
+        "doc191.txt": 30,
+        "doc198.txt": 3,
+        "doc199.txt": 2
+    },
+    "language": {
+        "doc194.txt": 61,
+        "doc197.txt": 9,
+        "doc193.txt": 7,
+        "doc191.txt": 103,
+        "doc199.txt": 4
+    },
+    "preprint": {
+        "doc194.txt": 21,
+        "doc196.txt": 2,
+        "doc193.txt": 15,
+        "doc191.txt": 140
+    },
+    "computação": {
+        "doc195.txt": 92,
+        "doc197.txt": 9,
+        "doc196.txt": 4,
+        "doc200.txt": 27,
+        "doc198.txt": 42,
+        "doc199.txt": 1
+    },
+    "data": {
+        "doc194.txt": 66,
+        "doc195.txt": 3,
+        "doc197.txt": 27,
+        "doc193.txt": 1,
+        "doc191.txt": 55,
+        "doc200.txt": 2,
+        "doc198.txt": 4
+    },
+    "using": {
+        "doc194.txt": 119,
+        "doc197.txt": 3,
+        "doc192.txt": 1,
+        "doc193.txt": 9,
+        "doc191.txt": 25
+    },
+    "text": {
+        "doc194.txt": 57,
+        "doc192.txt": 1,
+        "doc193.txt": 1,
+        "doc191.txt": 94
+    },
+    "search": {
+        "doc194.txt": 103,
+        "doc197.txt": 1,
+        "doc192.txt": 4,
+        "doc193.txt": 2,
+        "doc191.txt": 32
+    },
+    "informação": {
+        "doc195.txt": 3,
+        "doc197.txt": 75,
+        "doc192.txt": 46,
+        "doc200.txt": 7,
+        "doc198.txt": 10
+    },
+    "document": {
+        "doc194.txt": 107,
+        "doc195.txt": 1,
+        "doc191.txt": 24,
+        "doc198.txt": 1
+    },
+    "acm": {
+        "doc194.txt": 125,
+        "doc195.txt": 2,
+        "doc191.txt": 1,
+        "doc199.txt": 5
+    },
+    "dados": {
+        "doc195.txt": 11,
+        "doc197.txt": 20,
+        "doc196.txt": 28,
+        "doc192.txt": 6,
+        "doc200.txt": 2,
+        "doc198.txt": 55,
+        "doc199.txt": 6
+    },
+    "problemas": {
+        "doc195.txt": 110,
+        "doc197.txt": 1,
+        "doc192.txt": 2,
+        "doc200.txt": 5,
+        "doc198.txt": 3,
+        "doc199.txt": 3
+    },
+    "tecnologia": {
+        "doc195.txt": 4,
+        "doc197.txt": 3,
+        "doc196.txt": 18,
+        "doc192.txt": 1,
+        "doc200.txt": 13,
+        "doc198.txt": 79,
+        "doc199.txt": 4
+    },
+    "training": {
+        "doc194.txt": 60,
+        "doc193.txt": 20,
+        "doc191.txt": 40
+    },
+    "based": {
+        "doc194.txt": 75,
+        "doc197.txt": 7,
+        "doc196.txt": 1,
+        "doc193.txt": 7,
+        "doc191.txt": 27,
+        "doc198.txt": 1
+    },
+    "web": {
+        "doc194.txt": 26,
+        "doc197.txt": 68,
+        "doc192.txt": 13,
+        "doc191.txt": 2,
+        "doc199.txt": 8
+    },
+    "deep": {
+        "doc194.txt": 94,
+        "doc196.txt": 10,
+        "doc193.txt": 6,
+        "doc191.txt": 2,
+        "doc200.txt": 1,
+        "doc198.txt": 2,
+        "doc199.txt": 1
+    },
+    "conference": {
+        "doc194.txt": 87,
+        "doc197.txt": 1,
+        "doc196.txt": 1,
+        "doc193.txt": 4,
+        "doc191.txt": 16,
+        "doc198.txt": 1,
+        "doc199.txt": 4
+    },
+    "context": {
+        "doc194.txt": 50,
+        "doc197.txt": 4,
+        "doc191.txt": 57,
+        "doc198.txt": 2
+    },
+    "indústria": {
+        "doc192.txt": 1,
+        "doc198.txt": 111,
+        "doc199.txt": 1
+    },
+    "embedding": {
+        "doc194.txt": 90,
+        "doc193.txt": 6,
+        "doc191.txt": 16
+    },
+    "documents": {
+        "doc194.txt": 85,
+        "doc197.txt": 1,
+        "doc191.txt": 24
+    },
+    "artificial": {
+        "doc194.txt": 7,
+        "doc195.txt": 3,
+        "doc197.txt": 48,
+        "doc196.txt": 26,
+        "doc191.txt": 2,
+        "doc198.txt": 12,
+        "doc199.txt": 12
+    },
+    "knowledge": {
+        "doc194.txt": 28,
+        "doc197.txt": 1,
+        "doc192.txt": 1,
+        "doc193.txt": 1,
+        "doc191.txt": 78,
+        "doc198.txt": 1
+    },
+    "semantic": {
+        "doc194.txt": 82,
+        "doc197.txt": 7,
+        "doc193.txt": 1,
+        "doc191.txt": 18
+    },
+    "question": {
+        "doc194.txt": 38,
+        "doc197.txt": 18,
+        "doc193.txt": 1,
+        "doc191.txt": 50
+    },
+    "research": {
+        "doc194.txt": 57,
+        "doc197.txt": 3,
+        "doc193.txt": 7,
+        "doc191.txt": 33,
+        "doc198.txt": 5
+    },
+    "attention": {
+        "doc194.txt": 12,
+        "doc193.txt": 84,
+        "doc191.txt": 4
+    },
+    "queries": {
+        "doc194.txt": 68,
+        "doc197.txt": 1,
+        "doc193.txt": 7,
+        "doc191.txt": 23
+    },
+    "similarity": {
+        "doc194.txt": 81,
+        "doc191.txt": 15
+    },
+    "work": {
+        "doc194.txt": 78,
+        "doc195.txt": 1,
+        "doc197.txt": 1,
+        "doc192.txt": 1,
+        "doc193.txt": 9,
+        "doc191.txt": 4,
+        "doc198.txt": 1
+    },
+    "vector": {
+        "doc194.txt": 79,
+        "doc192.txt": 2,
+        "doc191.txt": 9
+    },
+    "natural": {
+        "doc194.txt": 16,
+        "doc197.txt": 58,
+        "doc192.txt": 1,
+        "doc193.txt": 1,
+        "doc191.txt": 9,
+        "doc199.txt": 4
+    },
+    "term": {
+        "doc194.txt": 83,
+        "doc193.txt": 4,
+        "doc191.txt": 2
+    },
+    "terms": {
+        "doc194.txt": 84,
+        "doc197.txt": 1,
+        "doc193.txt": 1,
+        "doc191.txt": 2
+    },
+    "generation": {
+        "doc194.txt": 4,
+        "doc192.txt": 1,
+        "doc193.txt": 1,
+        "doc191.txt": 81,
+        "doc198.txt": 1
+    },
+    "quântica": {
+        "doc195.txt": 88
+    },
+    "tempo": {
+        "doc195.txt": 54,
+        "doc197.txt": 3,
+        "doc196.txt": 5,
+        "doc192.txt": 2,
+        "doc200.txt": 3,
+        "doc198.txt": 17,
+        "doc199.txt": 1
+    },
+    "sistemas": {
+        "doc195.txt": 24,
+        "doc197.txt": 11,
+        "doc196.txt": 2,
+        "doc192.txt": 11,
+        "doc200.txt": 7,
+        "doc198.txt": 22,
+        "doc199.txt": 8
+    }
+}
