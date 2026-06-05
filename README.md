@@ -97,3 +97,4 @@ A coleção inclui artigos acadêmicos sobre:
 - Classes P, NP e BQP
 - Algoritmos de Shor e Grover
 - Paradigmas Híbridos (Clássico-Quântico)
+
